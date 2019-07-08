@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MutationSHARK.iml" filepath="$PROJECT_DIR$/.idea/MutationSHARK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MutationSHARK_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MutationSHARK_main.iml" group="MutationSHARK" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MutationSHARK_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MutationSHARK_test.iml" group="MutationSHARK" />
+    </modules>
+  </component>
+</project>

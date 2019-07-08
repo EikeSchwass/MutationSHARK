@@ -6,6 +6,7 @@ allprojects {
 	//Plugins applyen
 	apply plugin:'java'
 	apply plugin:'eclipse'
+
 	//Decoding
 	compileJava.options.encoding = 'UTF-8'
 	

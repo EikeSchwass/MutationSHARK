@@ -1,4 +1,4 @@
-package de.ugoe.cs.smartshark.mutationSHARK.util;
+package de.ugoe.cs.smartshark.mutationSHARK;
 
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;

@@ -7,8 +7,6 @@ import com.github.gumtreediff.gen.Generators;
 import com.github.gumtreediff.io.TreeIoUtils;
 import com.github.gumtreediff.tree.ITree;
 import com.github.gumtreediff.tree.TreeContext;
-import com.github.gumtreediff.tree.TreeUtils;
-import de.ugoe.cs.smartshark.mutationSHARK.util.Parameter;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
